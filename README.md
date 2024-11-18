@@ -10,13 +10,13 @@ using matplotlib.
 
 ## How to start
 
-0. Make sure you ubnderstand the samplefigs.py examples and feel free to use
-them as referernces for making your own plots.
+0. Make sure you understand the samplefigs.py examples and feel free to use
+them as references for making your own plots.
 
 1. Using lab 7 as a base, please make a plot that is capable of showing your
 observations individually
   - dont forget to add all appropriate labels, titles, legends, etc.
-2. Using lab 7 as a base, please make a plot that visualized your hypothesis
+2. Using lab 7 as a base, please make a plot that visualizes your hypothesis
 test
   - dont forget to include overlays that show important points like the mean.
   - use plt.errorbar to show the standard error of the mean
